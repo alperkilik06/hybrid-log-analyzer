@@ -40,7 +40,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/hybrid-log-analyzer.git](https://github.com/YOUR_USERNAME/hybrid-log-analyzer.git)
+   git clone [https://github.com/alperkilik06/hybrid-log-analyzer.git](https://github.com/alperkilik06/hybrid-log-analyzer.git)
    cd hybrid-log-analyzer
 Install dependencies:
 
